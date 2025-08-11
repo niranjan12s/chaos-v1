@@ -5,3 +5,5 @@ Google Colab was used during development , hence the code has been structured as
 The nature of the dataset used was light-weight due to colab-based training restrictions in the free version and hence the nature of the Tokenizer and other classes also are simplistic by design. It also promoted quick, iterative design and development cycles. 
 The paper tries to highlight the difference in architectural behavior rather than any other aspect of the model.
 Thank you for visiting my repository! i would highly appreciate any feedback!
+
+Pre-print link: https://zenodo.org/records/16804227
